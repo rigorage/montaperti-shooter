@@ -1,3 +1,13 @@
+MONTAPERTI SHOOTER 1.2.1 — CLIENT 1.0.1
+
+- Damage meter discreto in basso a destra, sempre visibile durante la run,
+  comprese pausa, bottega e schermata finale. Una riga per giocatore.
+- Danni totali effettivi e DPS medio sul tempo trascorso nelle ondate:
+  pause e bottega escluse; conteggio conservato fra ondate e azzerato a nuova run.
+- Inclusi critici, incendi, esplosioni e macchine; escluso il danno oltre
+  la vita rimasta al nemico. In multiplayer i valori provengono dall'host.
+- Tutti devono aggiornare alla 1.2.1 per giocare insieme.
+
 MONTAPERTI SHOOTER 1.2.0 — CLIENT 1.0.1
 
 - Download completo indicato con un link diretto nella pagina della release.
