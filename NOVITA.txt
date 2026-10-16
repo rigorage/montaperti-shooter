@@ -1,3 +1,19 @@
+MONTAPERTI SHOOTER 1.2.3 — CLIENT 1.0.1
+
+- I fiorini raccolti e i bonus in combattimento si dividono in quote intere
+  fra i connessi, anche caduti. I resti ruotano senza favorire sempre l'host.
+- Le borse aiutano tutta la squadra: al massimo un fiorino di riserva
+  per moneta raccolta. Il denaro non viene moltiplicato per i giocatori.
+- Ognuno spende la propria quota. Raccolta, vendite e ricicli restano personali.
+- Più vita ai nemici dall'ondata 8, con un secondo incremento dalla 14.
+  Boss ed élite ricevono un aumento maggiore per resistere al fuoco concentrato.
+- Rispetto alla 1.2.2: Capitano dell'ondata 11 x1,65; Capitani della 18 x2,2;
+  boss finale x1,65. I moltiplicatori di pericolo e cooperativa restano applicati.
+- Vita dei nemici nelle prime 7 ondate invariata; nessun aumento di danni,
+  velocità, quantità o ricompense dei nemici.
+- XP condivisa, damage meter e aggiornamento del client restano disponibili.
+- Tutti devono aggiornare alla 1.2.3 per giocare insieme.
+
 MONTAPERTI SHOOTER 1.2.2 — CLIENT 1.0.1
 
 - In multiplayer l'XP dei fiorini raccolti si divide equamente fra tutti
