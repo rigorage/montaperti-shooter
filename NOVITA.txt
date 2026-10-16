@@ -1,3 +1,22 @@
+MONTAPERTI SHOOTER 1.2.0 — CLIENT 1.0.1
+
+- Download completo indicato con un link diretto nella pagina della release.
+- Il pacchetto ridotto estratto a mano recupera il proprio manifest firmato
+  e verifica i file prima di avviarsi; al primo avvio richiede internet.
+- Il collegamento già sul Desktop continua a cercare gli aggiornamenti.
+- L'host verifica acquisti, livelli e bottini: gli ospiti non possono più
+  imporre statistiche, fiorini o inventari falsificati.
+- Input e fotografie numerati per ondata; stop agli input rimasti attivi
+  e ritorno al menu se si perde l'host fra due ondate.
+- Colpi veloci verificati lungo tutto il percorso, bersagli attraversati
+  colpiti in ordine; la carica di Siena vale per un singolo attacco.
+- Danno letale definitivo, raccolta senza oscillazioni, limite spawn
+  rispettato e ricompense distribuite ai giocatori ancora connessi.
+- Gli avanzi dei bottini ruotano fra i posti per evitare il vantaggio fisso
+  dell'host. Una sola arena: corretta la scelta del punto di spawn quando
+  i giocatori occupano zone diverse.
+- Tutti devono aggiornare alla 1.2.0 per giocare insieme.
+
 MONTAPERTI SHOOTER 1.1.0
 
 - Partite online fino a 4 giocatori. Chi ospita sceglie «Crea partita online»
