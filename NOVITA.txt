@@ -1,3 +1,13 @@
+MONTAPERTI SHOOTER 1.2.4 — CLIENT 1.0.1
+
+- In compagnia ogni fiorino raccolto vale di più (×1,25 in due, ×1,36 in tre,
+  ×1,43 in quattro): con i nemici in più, ognuno guadagna fiorini ed
+  esperienza come se giocasse da solo. Prima si guadagnava il 20-30% in meno.
+- Le quote restano intere e a rotazione; le frazioni non si perdono.
+- I fiorini di Fiorino falso e Forcone vanno di nuovo a chi possiede l'oggetto.
+- Carroccio nero: +75% di vita per ogni giocatore in più (prima +100%).
+  Capitani di ventura invariati.
+- Da soli non cambia nulla. Tutti devono aggiornare alla 1.2.4.
 MONTAPERTI SHOOTER 1.2.3 — CLIENT 1.0.1
 
 - I fiorini raccolti e i bonus in combattimento si dividono in quote intere
