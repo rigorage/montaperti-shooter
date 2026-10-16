@@ -1,6 +1,6 @@
 # Montaperti Shooter per Windows
 
-[**SCARICA IL GIOCO COMPLETO PER WINDOWS**](https://github.com/rigorage/montaperti-shooter/releases/latest/download/Montaperti-Shooter-Windows-1.2.1.zip)
+[**SCARICA IL GIOCO COMPLETO PER WINDOWS**](https://github.com/rigorage/montaperti-shooter/releases/latest/download/Montaperti-Shooter-Windows-1.2.2.zip)
 
 Nella pagina apri **Assets** e scarica lo ZIP che inizia con **Montaperti-Shooter-Windows**. Estrai tutta la cartella e apri **Montaperti Shooter.exe**. Puoi creare un collegamento sul Desktop.
 

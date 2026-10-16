@@ -1,3 +1,15 @@
+MONTAPERTI SHOOTER 1.2.2 — CLIENT 1.0.1
+
+- In multiplayer l'XP dei fiorini raccolti si divide equamente fra tutti
+  i compagni connessi, anche quelli caduti, senza limiti di distanza.
+- Ogni raccolta vale sempre 1 XP base per la squadra: nessuna moltiplicazione
+  per il numero di giocatori. I bonus XP personali agiscono sulla propria quota.
+- Fiorini, bottini, pane e premi della statistica Raccolta restano personali.
+  Chi si disconnette non riceve più XP. Il single player resta invariato.
+- L'host assegna l'esperienza e conferma i potenziamenti tra le ondate.
+- Damage meter e aggiornamenti automatici restano disponibili.
+- Tutti devono aggiornare alla 1.2.2 per giocare insieme.
+
 MONTAPERTI SHOOTER 1.2.1 — CLIENT 1.0.1
 
 - Damage meter discreto in basso a destra, sempre visibile durante la run,
