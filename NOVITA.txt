@@ -1,3 +1,14 @@
+MONTAPERTI SHOOTER 1.1.0
+
+- Partite online fino a 4 giocatori. Chi ospita sceglie «Crea partita online»
+  e passa le 5 lettere del codice; gli altri scrivono il codice e premono
+  «Entra». Tutti devono avere la stessa versione del gioco.
+- Con più giocatori arrivano più nemici (+60% a testa) e con più vita (+50%
+  a testa); Capitani di ventura e Carroccio nero diventano più robusti.
+- Ognuno ha la sua bottega, i suoi fiorini e i suoi livelli. Chi cade torna
+  all'ondata successiva; la partita finisce solo se cadono tutti.
+- Quattro classi nuove: Campione Angioino (Napoli), Capitano della Lega
+  (Milano), Prefetto della Guardia (Roma), Maestro Artigliere (Bologna).
 MONTAPERTI SHOOTER 1.0.1
 
 - Prova del sistema di aggiornamento automatico: nessun cambiamento al gioco.
