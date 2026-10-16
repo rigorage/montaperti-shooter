@@ -1,3 +1,7 @@
+MONTAPERTI SHOOTER 1.0.1
+
+- Prova del sistema di aggiornamento automatico: nessun cambiamento al gioco.
+
 MONTAPERTI SHOOTER 1.0.0
 
 - Prima versione: tre personaggi (Firenze, Siena, Lucca), venti ondate,
