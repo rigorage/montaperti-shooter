@@ -1,0 +1,5 @@
+MONTAPERTI SHOOTER 1.0.0
+
+- Prima versione: tre personaggi (Firenze, Siena, Lucca), venti ondate,
+  bottega, livelli e bottini. All'ondata 20 arriva il Carroccio nero.
+- Client Windows con aggiornamenti automatici all'avvio.
