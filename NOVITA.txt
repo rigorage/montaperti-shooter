@@ -1,3 +1,19 @@
+MONTAPERTI SHOOTER 1.3.1 — CLIENT 1.0.1
+
+- Corretto il caso in cui i nemici morivano nello stesso istante dello spawn,
+  prima di comparire sugli schermi degli ospiti. Entrano con un breve segnale
+  visibile di 0,25 secondi: in quel momento non colpiscono e non subiscono danni.
+- Dalla 14 i gruppi entrano scaglionati, anziché tutti nello stesso istante.
+  Il numero di nemici per gruppo resta uguale.
+- Più resistenza in cooperativa dalla 14, con crescita graduale fino alla 20.
+  Vita delle prime 13 ondate e della modalità classica in solo invariata.
+- Endless: dalla 21 composizioni più intense e crescita della vita più rapida,
+  per sostenere le build avanzate. Danni e velocità dei nemici invariati.
+- Anche i rinforzi dei boss e dei Reclutatori rispettano la fase di entrata
+  e il limite di nemici, contando quelli ancora in attesa di comparire.
+- XP e fiorini condivisi, acquisti, damage meter e aggiornamento restano attivi.
+  Aggiornate tutti alla 1.3.1 per giocare insieme.
+
 MONTAPERTI SHOOTER 1.3.0 — CLIENT 1.0.1
 
 - Nuova modalità Endless, selezionabile nel menu e da chi ospita la stanza.
